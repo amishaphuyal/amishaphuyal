@@ -1,4 +1,4 @@
-# Amisha
+# amishaphuyal
 Cybersecurity | Python | Web Development
 
 # 👋 Hi, I'm Amisha Phuyal
