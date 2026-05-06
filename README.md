@@ -19,17 +19,13 @@ I enjoy working on practical projects related to network security, vulnerability
 <img src="https://skillicons.dev/icons?i=python,html,css,js,php,linux,docker,kubernetes,git,github,mysql,vscode" />
 
 ---
-# Featured Projects
-🔹 Secure Network Architecture – Three-tier network with VLANs, HSRP & OSPF
-🔹 Docker Security Setup – Containerized application with basic security practices
-🔹 DNS Resolver (Python) – Domain lookup tool
----
 
 # Technical Skills
-Networking: VLAN, OSPF, HSRP, STP, DHCP
-Cybersecurity: Basic Penetration Testing, Risk Assessment, Vulnerability Analysis
-Tools & Tech: Docker, Linux, Git
-Programming: Python, HTML, CSS, PHP
+- Networking: VLAN, OSPF, HSRP, STP, DHCP <br>
+- Cybersecurity: Basic Penetration Testing, Risk Assessment, Vulnerability Analysis <br>
+- DevOps & Tools: Docker, Linux, Git, GitHub <br>
+- Programming: Python, HTML, CSS, PHP, javascript <br>
+
 
 ---
 
@@ -41,6 +37,7 @@ Programming: Python, HTML, CSS, PHP
 Web Application Security
 Linux Hardening
 Advanced Networking & Security Concepts
+Kubernetes Fundamentals <br>
 
 ## 🌐 Connect With Me
 - 📧 Email: amishaph60@gmail.com
