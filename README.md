@@ -1,34 +1,37 @@
-# amishaphuyal
-Cybersecurity | Python | Web Development
-
 # 👋 Hi, I'm Amisha Phuyal
 
-🔐 Cybersecurity Enthusiast | 💻 Software Developer  
-🐍 Python | 🌐 Web Development | 🛡️ Security Research  
+Cybersecurity Enthusiast | Ethical Hacking | Networking | Docker
 
 ---
+# About Me
 
-## 🚀 About Me
-- 🎓 Student passionate about coding  
-- 🔍 Interested in Web Development & Databases  
-- 📚 Learning by building real-world projects  
+I am an IT student focused on Cybersecurity and Ethical Hacking, with a strong interest in securing systems and networks.
+I enjoy working on practical projects related to network security, vulnerability assessment, and containerized environments.
+
+🔐 Focused on Cybersecurity & Ethical Hacking
+🌐 Strong interest in Network Security & Infrastructure
+🐳 Exploring Docker and secure deployments
+🎯 Goal: Become a Cybersecurity Professional / Ethical Hacker
 
 ---
 
 ## 🧠 Tech Stack
-<img src="https://skillicons.dev/icons?i=python,html,css,js,php,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,php,linux,docker,kubernetes,git,github,mysql,vscode" />
+
+---
+# 📌 Featured Projects
+🔹 Secure Network Architecture – Three-tier network with VLANs, HSRP & OSPF
+🔹 Docker Security Setup – Containerized application with basic security practices
+🔹 DNS Resolver (Python) – Domain lookup tool
+🔹 Cybersecurity Risk Assessment Report
 
 ---
 
-## 📌 Featured Projects
-- 🔹 DNS Resolver – Python-based domain lookup tool  
-- 🔹 Video Game Parlour Database – Database management system  
-- 🔹 Web Development Project – Basic website using HTML, CSS, PHP  
-
----
-
-## 📊 GitHub Stats
-![Amisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amishaphuyal&show_icons=true&theme=tokyonight)
+# Technical Skills
+Networking: VLAN, OSPF, HSRP, STP, DHCP
+Cybersecurity: Basic Penetration Testing, Risk Assessment, Vulnerability Analysis
+Tools & Tech: Docker, Linux, Git
+Programming: Python, HTML, CSS, PHP
 
 ---
 
@@ -36,12 +39,19 @@ Cybersecurity | Python | Web Development
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amishaphuyal&theme=tokyonight)
 
 ---
+# 📚 Currently Learning
+Web Application Security
+Linux Hardening
+Advanced Networking & Security Concepts
 
 ## 🌐 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: (add later)  
+- 📧 Email: amishaph60@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/amishaphuyal/
+
 
 ---
 
-## 💡 Fun Fact
-I’m learning coding step by step and building my future with it 🚀
+## 💡 Fun Facts
+- I like building and breaking systems (ethically 😉)  
+- Debugging feels frustrating… until it finally works  
+- Always exploring something new in tech  
