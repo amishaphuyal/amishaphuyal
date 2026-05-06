@@ -3,9 +3,8 @@ Cybersecurity | Python | Web Development
 
 # 👋 Hi, I'm Amisha Phuyal
 
-💻 Aspiring Software Developer  
-🌱 Currently learning Web Development & Python  
-🎯 Goal: Become a Full-Stack Developer  
+🔐 Cybersecurity Enthusiast | 💻 Software Developer  
+🐍 Python | 🌐 Web Development | 🛡️ Security Research  
 
 ---
 
